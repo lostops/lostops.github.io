@@ -1,9 +1,10 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+# Media Ventures GmbH, Sen. System Administrator Operations
+- company: Media Ventures GmbH (Venture Capital & Private Equity)
+  position: Sen. System Administrator Operations
+  duration:  Feb, 2008 &mdash; Nov, 2008
+  summary: When neu.de GmbH was sold to the french Meetic Group, I was hired by Media Ventures as a senior system administrator. Here I was working on seveal Media Ventures projects like: <ul class="resume-item-list"><li>blogg.de</li><li>pkw.de</li><li>mp3.de</li><li>Mabber</li><li>blogmonitor.de</li><li>rabattschlacht.de</li><li>...and several others</li></ul>A major part of my daily business was the remodelling of the datacenter infrastructure from a project based setup to a tenant based setup. This involved a complete remodelling of the IP network (incl. firewalls, loadbalncer, switches)
+
 
 # neu.de GmbH, System Administrator Operations
 - company: neu.de GmbH (Online Dating)
