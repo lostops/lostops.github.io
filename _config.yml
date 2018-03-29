@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "C.Probst Resume"
+description: "My online resume."
 
 # Build settings
 markdown: kramdown
@@ -15,7 +15,7 @@ resume_title:                   "IT Operations Expert"
 resume_contact_email:           "cprobst@etcinit.de"
 resume_contact_telephone:       "+49 172 7044414"
 resume_contact_address:         "Neuss, Germany"
-resume_header_contact_info: "Neuss, Germany | 555-7334 | cprobst@etcinit.de"
+resume_header_contact_info: "Neuss, Germany | +49 172 7044414 | cprobst@etcinit.de"
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
 
 # use "yes" to display the email contact button,
@@ -41,9 +41,9 @@ resume_social_links:
   resume_github_url:            "https://github.com/lostops"
   resume_twitter_url:           "http://twitter.com/c_probst"
   #resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
+  #resume_facebook_url:          "insert Facebook URL here"
   #resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
+  #resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://etcinit.de"
 resume_print_social_links:      true
 
