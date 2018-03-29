@@ -9,11 +9,11 @@
 - company: neu.de GmbH (Online Dating)
   position: System Administrator Operations
   duration:  Apr, 2007 &mdash; Jan, 2008
-  summary: I was working in the IT Operations department that was responsible for the whole operation of the online portal. I was working closely with software developers to optimize performance for high traffic peaks. I was responsible for designing and implementing high availability infrastructure based on Apache Webservers (LAMP stack) with F5 BigIP loadbalancers and MySQL cluster. First POC with Xen virtualization in production.
+  summary: I was working in the IT Operations department that was responsible for the whole operation of the online portal. I was working closely with software developers to optimize performance for high traffic peaks. I was responsible for designing and implementing high availability infrastructure based on Apache Webservers (LAMP stack) with F5 BigIP loadbalancers and MySQL cluster. First POC with Xen virtualization in production. <ul class="resume-item-list"><li>F5 BigIP</li><li>MySQL cluster</li><li>Xen virtualization</li><li>MogileFS distributed filesystem</li></ul>
 
 
 # net-m System Administrator Operations
 - company: net mobile AG (Telco)
   position: System Administrator Operations
   duration:   Aug, 2001  &mdash; Mar, 2007
-  summary: I was working in the IT Operations department as a 2nd level support engineer for the XMS Transport applications. I was responsible for the operation and maintenence of the directory service cluster (OpenLDAP) that was used by several other applications. I was also part of the 24/7 on-call team that was responsible for the datacenter operation during non-business hours.
+  summary: I was working in the IT Operations department as a 2nd level support engineer for the XMS Transport applications. I was responsible for the operation and maintenence of the directory service cluster (OpenLDAP) that was used by several other applications. I was also part of the 24/7 on-call team that was responsible for the datacenter operation during non-business hours. <ul class="resume-item-list"><li>Linux</li><li>Solaris</li><li>OpenLDAP</li></ul>
