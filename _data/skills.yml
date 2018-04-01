@@ -9,3 +9,5 @@
 
 # Computer skills
 - skill: Computer skills (excerpt)
+  description: <ul class="resume-item-list"><li>Unix operating systems (Linux, Solaris etc.)</li><li>HA cluster solutions</li><li>Loadbalancing</li><li>Virtualization</li><li>Storage (SAN, NAS)</li></ul>
+
