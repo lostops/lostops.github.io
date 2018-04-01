@@ -10,18 +10,18 @@
 - company: Media Ventures GmbH (Venture Capital &amp; Private Equity)
   position: Sen. System Administrator Operations
   duration:  Feb, 2008 &mdash; Nov, 2008
-  summary: When neu.de GmbH was sold to the french Meetic Group, I was hired by Media Ventures as a senior system administrator. A major part of my daily business was the remodeling of the datacenter infrastructure from a project based setup to a tenant based setup. This involved a complete rebuild of all datacenter assets and a new IP network design.
+  summary: When neu.de GmbH was sold to the french Meetic Group, I was hired by Media Ventures as a senior system administrator. A major part of my daily business was the remodeling of the datacenter infrastructure from a project based setup to a tenant based setup. This involved a complete rebuild of all datacenter assets and processes as well as a new IP network design.
 
 
 # neu.de GmbH, System Administrator Operations
 - company: neu.de GmbH (Online Dating)
   position: System Administrator Operations
   duration:  Apr, 2007 &mdash; Jan, 2008
-  summary: I was working in the IT Operations department that was responsible for the whole 24/7 operation of the online portal. I was working closely with software developers to optimize performance for high traffic peaks. I was responsible for designing and implementing high availability infrastructure based on Apache Webservers (LAMP stack) with F5 BigIP loadbalancers and MySQL cluster. First POC with Xen virtualization in production. <ul class="resume-item-list"><li>F5 BigIP</li><li>MySQL cluster</li><li>Xen virtualization</li><li>MogileFS distributed filesystem</li></ul>
+  summary: I was working in the IT Operations department that was responsible for the whole 24/7 operation of the online portal. I was working closely with software developers to optimize performance for high traffic peaks. I was responsible for designing and implementing high availability infrastructure based on Apache Webservers (LAMP stack) with F5 BigIP loadbalancers and MySQL cluster. First POC with Xen virtualization in production.
 
 
 # net-m System Administrator Operations
 - company: net mobile AG (Telco)
   position: System Administrator Operations
   duration:   Aug, 2001  &mdash; Mar, 2007
-  summary: I was working in the IT Operations department as a 2nd level support engineer for the XMS Transport applications. I was responsible for the operation and maintenence of the directory service cluster (OpenLDAP) that was used by several other applications. I was also part of the 24/7 on-call team that was responsible for the datacenter operation during non-business hours. <ul class="resume-item-list"><li>Linux</li><li>Solaris</li><li>OpenLDAP</li></ul>
+  summary: I was working in the IT Operations department as a 2nd level support engineer for the XMS Transport applications. I was responsible for the operation and maintenence of the directory service cluster (OpenLDAP) that was used by several other applications. I was also part of the 24/7 on-call team that was responsible for the datacenter operation during non-business hours.
