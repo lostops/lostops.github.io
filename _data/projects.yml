@@ -17,14 +17,14 @@
   
   # Implementing F5 BigIP loadbalancer and integration into existing infrastructure
 - project: F5 BigIP Loadbalancer
-  role: Project enigineer
+  role: Project engineer
 #  duration: 
   url: "https://f5.com/de/products/big-ip"
   description: To achieve horizontal scale out of application and webservers for our customer projects we implemented load balancing based on high availability F5 BigIP platform. The BigIP cluster was placed behind perimeter to distribute incoming and outgoing traffic (mostly HTTP/S (with SSL offload) but also other protocols). The loadbalancer was prepared to serve high traffic peaks and due to F5 iRule system we were able to redirect and manipulate traffic the way our customer needed it. 
   
   # Introduction of Active Directory and integration into existing infrastructure to enable SSO
 - project: Implementing Active Directory
-  role: Project enigineer
+  role: Project engineer
 #  duration: 
   # url: "#"
   description: Implementation of Microsoft Active Directory as the central directory service for all objects and assets of the enterprise. Implementing single sign on based on ADS for all applications and systems. Rollout of pam_ldap for all Linux systems.
