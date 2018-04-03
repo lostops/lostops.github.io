@@ -1,7 +1,7 @@
 # Skills
 # Computer skills
 - skill: Computer skills (excerpt)
-  description: <ul class="resume-item-list"><li>Unix operating systems (Linux, Solaris etc.)</li><li>HA cluster solutions (MySQL Cluster, Galera Cluster)</li><li>Loadbalancing (F5 BigIP, HAproxy)</li><li>Virtualization (VMware vSphere)</li><li>Storage (NetApp SAN & NAS)</li><li>Monitoring</li><li>Backup</li><li>Orchestration (Puppet)</li>Networking (Juniper HA Firewall Cluster, Brocade & Procurve L3 Switche)</ul>
+  description: <ul class="resume-item-list"><li>Unix operating systems (Linux, Solaris etc.)</li><li>HA cluster solutions (MySQL Cluster, Galera Cluster)</li><li>Loadbalancing (F5 BigIP, HAproxy)</li><li>Virtualization (VMware vSphere)</li><li>Storage (NetApp SAN & NAS)</li><li>Monitoring</li><li>Backup</li><li>Orchestration (Puppet)</li><li>Networking (Juniper HA Firewall Cluster, Brocade & Procurve L3 Switche)</li></ul>
 
 # Organizational skills
 - skill: Organizational skills
