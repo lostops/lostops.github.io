@@ -4,27 +4,52 @@
 # Implementing VMware virtualisation and migration of native systems
 - project: Implementing VMware and migration of physical servers
   role: Project owner and project engineer
-#  duration: 
+  duration: 
   url: "https://www.vmware.com/de/products/vsphere.html"
   description: Starting with VMware Infrastructure 3.5 back in 2009 until today with VMware vSphere 6.5, virtualisation is the foundation of the modern datacenter. In this project the target was to replace all physical servers with virtual machines to obtain more flexibility and increased availability by reducing physical space at the same time. The VMware cluster was implemendet on HP Procurve DL360 servers. Starting with Gen. 5 systems back in the day and running on Gen. 9 systems until today. The project involved not only the setup of VMware but also the configuration of vSwitches with VLANs and the setup of NFS datasores and the performance optimisation of the whole environment. During the years we succeeded to replace ten physical racks with two racks of VMware virtualisation nodes.
 
 # Implementing of central SAN storage and migration of distributed data
 - project: Central SAN storage
   role: Project owner and project engineer
-#  duration: 
+  duration: 
   url: "https://www.netapp.com/de/products/storage-systems/index.aspx"
   description: In parallel to the implementation of virtualisation with VMware, a storage was needed to provide shared storage capacity for the VMware nodes. After testing products of several different manufacturers (EqualLogic, EMC and NetApp) we decided to go with a NetApp FAS system. In this project the FAS was prepared as a fully redundant multi protocol filer (CIFS, NFS, iSCSI) to consolidate a bunch of distributed DAS systems (mostly EasyRaid and HP MSA). The FAS was integrated into Active Directory and replaced a classic CIFS filer while at the same time served NFS datastores for VMware and iSCSI block storage for machines that required so. Throughout the years the FAS was replaced with newer FAS models and extended with more disk capacity (shelfs) and tuned with SSD storage to fit IOPS intensive workloads.
   
   # Implementing F5 BigIP loadbalancer and integration into existing infrastructure
 - project: F5 BigIP Loadbalancer
   role: Project engineer
-#  duration: 
+  duration: 
   url: "https://f5.com/de/products/big-ip"
   description: To achieve horizontal scale out of application and webservers for our customer projects we implemented load balancing based on high availability F5 BigIP platform. The BigIP cluster was placed behind perimeter to distribute incoming and outgoing traffic (mostly HTTP/S (with SSL offload) but also other protocols). The loadbalancer was prepared to serve high traffic peaks and due to F5 iRule system we were able to redirect and manipulate traffic the way our customer needed it. 
   
   # Introduction of Active Directory and integration into existing infrastructure to enable SSO
 - project: Implementing Active Directory
   role: Project engineer
-#  duration: 
+  duration: 
   # url: "#"
   description: Implementation of Microsoft Active Directory as the central directory service for all objects and assets of the enterprise. Implementing single sign on based on ADS for all applications and systems. Rollout of pam_ldap for all Linux systems.
+  
+ # Consolidation of legacy infrastructure to increase efficiency and improve cost/benefit ratio
+- project: Consolidation of legacy infrastructure to improve cost/benefit ratio
+  role: Project owner and project engineer
+  
+ # Remodelling infrastructure from project based to tenant/client based setup
+- project: Remodelling infrastructure from project based to tenant/client based setup
+  role: Project owner and project engineer
+  
+ # Consulting and audit of subsidiaries on matters of techn. operation as well as the coordination of requirements between application and infrastructure
+- project: Consulting clients on matters of techn. operation as well as the coordination of requirements between application and infrastructure (DevOps)
+  role: Project owner
+  
+ # Building helpdesk infrastructure with 1st and 2nd level support and development of associated organisational processes
+- project: Building helpdesk infrastructure with 1st and 2nd level support and development of associated organisational processes
+  role: Project owner and project engineer
+  
+ # Introduction and migration to PI IP Space to achieve carrier independence
+- project: Implementing and migration to PI IP space to achieve carrier independence
+  role: Project owner and project engineer
+  
+ # Migrating customer data from on-premise applications to SaaS clouds
+- project: Migrating customer data from on-premise applications to SaaS clouds
+  role: Project owner and project engineer
+  
