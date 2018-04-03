@@ -1,12 +1,37 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# Consolidation of legacy infrastructure to increase efficiency and improve cost/benefit ratio
+- project: Consolidation of legacy infrastructure to improve cost/benefit ratio
+  role: Project owner and project engineer
+  description: Calculating operational costs of legacy systems and developing strategies to improve cost/benefit ratio.
+  
+ # Remodelling infrastructure from project based to tenant/client based setup
+- project: Remodelling infrastructure from project based to tenant/client based setup
+  role: Project owner and project engineer
+  description: Adopt enterprise infrastructure to fit business needs as business model changed.
+  
+ # Consulting and audit of subsidiaries on matters of techn. operation as well as the coordination of requirements between application and infrastructure
+- project: Technical Consulting
+  role: Project owner
+  description: Consulting clients on matters of techn. operation as well as the coordination of requirements between application and infrastructure (DevOps)
+
+# Migrating customer data from on-premise applications to SaaS clouds
+- project: Migrating customer data from on-premise applications to SaaS clouds
+  role: Project owner and project engineer
+  description: Developing processes how to migrate customer data, applications and services to SaaS clouds with zero downtime and managing the migration process.
+
+# Introduction and migration to PI IP Space to achieve carrier independence
+- project: Achieve carrier/ISP independence
+  role: Project owner and project engineer
+  description: Requesting an IP network from RIPE and implementing and migration to provider independent (pi) IP space to achieve carrier independence.
+    
 # Implementing VMware virtualisation and migration of native systems
 - project: Implementing VMware and migration of physical servers
   role: Project owner and project engineer
   duration: 
   url: "https://www.vmware.com/de/products/vsphere.html"
-  description: Starting with VMware Infrastructure 3.5 back in 2009 until today with VMware vSphere 6.5, virtualisation is the foundation of the modern datacenter. In this project the target was to replace all physical servers with virtual machines to obtain more flexibility and increased availability by reducing physical space at the same time. The VMware cluster was implemendet on HP Procurve DL360 servers. Starting with Gen. 5 systems back in the day and running on Gen. 9 systems until today. The project involved not only the setup of VMware but also the configuration of vSwitches with VLANs and the setup of NFS datasores and the performance optimisation of the whole environment. During the years we succeeded to replace ten physical racks with two racks of VMware virtualisation nodes.
+  description: Virtualisation is the foundation of the modern datacenter. In this project the target was to replace all physical servers with virtual machines to obtain more flexibility and increased availability by reducing physical space at the same time. The VMware cluster was implemendet on HP Procurve DL360 servers. Starting with Gen. 5 systems back in the day and running on Gen. 9 systems until today. The project involved not only the setup of VMware but also the configuration of vSwitches with VLANs and the setup of NFS datasores and the performance optimisation of the whole environment. During the years we succeeded to replace ten physical racks with two racks of VMware virtualisation nodes.
 
 # Implementing of central SAN storage and migration of distributed data
 - project: Central SAN storage
@@ -21,6 +46,11 @@
   duration: 
   url: "https://f5.com/de/products/big-ip"
   description: To achieve horizontal scale out of application and webservers for our customer projects we implemented load balancing based on high availability F5 BigIP platform. The BigIP cluster was placed behind perimeter to distribute incoming and outgoing traffic (mostly HTTP/S (with SSL offload) but also other protocols). The loadbalancer was prepared to serve high traffic peaks and due to F5 iRule system we were able to redirect and manipulate traffic the way our customer needed it. 
+
+# Building helpdesk infrastructure with 1st and 2nd level support and development of associated organisational processes
+- project: Building a Helpdesk and develop associated organisational processes
+  role: Project owner and project engineer
+  description: Building a Helpdesk infrastructure with 1st and 2nd level support and development of associated organisational processes incl. a 24/7 on-call service.
   
   # Introduction of Active Directory and integration into existing infrastructure to enable SSO
 - project: Implementing Active Directory
@@ -28,28 +58,3 @@
   duration: 
   # url: "#"
   description: Implementation of Microsoft Active Directory as the central directory service for all objects and assets of the enterprise. Implementing single sign on based on ADS for all applications and systems. Rollout of pam_ldap for all Linux systems.
-  
- # Consolidation of legacy infrastructure to increase efficiency and improve cost/benefit ratio
-- project: Consolidation of legacy infrastructure to improve cost/benefit ratio
-  role: Project owner and project engineer
-  
- # Remodelling infrastructure from project based to tenant/client based setup
-- project: Remodelling infrastructure from project based to tenant/client based setup
-  role: Project owner and project engineer
-  
- # Consulting and audit of subsidiaries on matters of techn. operation as well as the coordination of requirements between application and infrastructure
-- project: Consulting clients on matters of techn. operation as well as the coordination of requirements between application and infrastructure (DevOps)
-  role: Project owner
-  
- # Building helpdesk infrastructure with 1st and 2nd level support and development of associated organisational processes
-- project: Building helpdesk infrastructure with 1st and 2nd level support and development of associated organisational processes
-  role: Project owner and project engineer
-  
- # Introduction and migration to PI IP Space to achieve carrier independence
-- project: Implementing and migration to PI IP space to achieve carrier independence
-  role: Project owner and project engineer
-  
- # Migrating customer data from on-premise applications to SaaS clouds
-- project: Migrating customer data from on-premise applications to SaaS clouds
-  role: Project owner and project engineer
-  
