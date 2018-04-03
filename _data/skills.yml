@@ -1,13 +1,12 @@
 # Skills
-# Social skills
-- skill: Social skills
-  description: <ul class="resume-item-list"><li>Communication</li><li>Focus on customer needs</li><li>Analytic thinking</li><li>Teamwork</li></ul>
+# Computer skills
+- skill: Computer skills (excerpt)
+  description: <ul class="resume-item-list"><li>Unix operating systems (Linux, Solaris etc.)</li><li>HA cluster solutions (MySQL Cluster, Galera Cluster)</li><li>Loadbalancing (F5 BigIP, HAproxy)</li><li>Virtualization (VMware vSphere)</li><li>Storage (NetApp SAN & NAS)</li><li>Monitoring</li><li>Backup</li><li>Orchestration (Puppet)</li>Networking (Juniper HA Firewall Cluster, Brocade & Procurve L3 Switche)</ul>
 
 # Organizational skills
 - skill: Organizational skills
   description: <ul class="resume-item-list"><li>Team- and Department leadership</li><li>Strategic thinking and implementing strategy</li><li>Decision making and delegation</li><li>PRINCE2 certification</li></ul>
 
-# Computer skills
-- skill: Computer skills (excerpt)
-  description: <ul class="resume-item-list"><li>Unix operating systems (Linux, Solaris etc.)</li><li>HA cluster solutions</li><li>Loadbalancing</li><li>Virtualization</li><li>Storage (SAN, NAS)</li><li>Monitoring</li><li>Backup</li><li>Orchestration</li></ul>
-
+# Social skills
+- skill: Social skills
+  description: <ul class="resume-item-list"><li>Communication</li><li>Focus on customer needs</li><li>Analytic thinking</li><li>Teamwork</li></ul>
