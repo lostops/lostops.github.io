@@ -9,7 +9,7 @@
  # Remodelling infrastructure from project based to tenant/client based setup
 - project: Remodelling infrastructure from project based to tenant/client based setup
   role: Project owner and project engineer
-  description: Adopt enterprise infrastructure to fit business needs as business model changed.
+  description: Adapt enterprise infrastructure to fit business needs as business model changes.
   
  # Consulting and audit of subsidiaries on matters of techn. operation as well as the coordination of requirements between application and infrastructure
 - project: Technical Consulting
