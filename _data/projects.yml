@@ -1,6 +1,11 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# Citrix Virtual Apps & Desktop on Azure Cloud
+- project: Citrix Virtual Apps & Desktop on Azure Cloud
+  role: Project owner and project engineer
+  description: Planning and rollout of Citrix Virtual Apps and Desktops on Azure Cloud to deploy and run native Windows applications via web browser.
+
 # Consolidation of legacy infrastructure to increase efficiency and improve cost/benefit ratio
 - project: Consolidation of legacy infrastructure to improve cost/benefit ratio
   role: Project owner and project engineer
