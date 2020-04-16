@@ -1,6 +1,11 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# Outsourcing 
+- project: IT Infrastructure 2.0
+  role: Project owner and technical project lead
+  description: Business case calculation of various IT operating models (on prem, outsourcing etc.) and development of a new IT architecture for a tailor-made internal software platform. Negotiations with various suppliers and development of an evaluation matrix for decision making under consideration of legal (e.g. GDPR) and compliance aspects (e.g. PCI-DSS or ISAE3402).
+  
 # Citrix Virtual Apps & Desktop on Azure Cloud
 - project: Citrix Virtual Apps & Desktop on Azure Cloud
   role: Project owner and project engineer
