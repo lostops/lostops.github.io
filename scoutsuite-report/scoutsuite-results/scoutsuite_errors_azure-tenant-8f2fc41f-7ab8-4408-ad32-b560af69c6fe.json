@@ -1,9 +1,0 @@
-[
-    {
-        "additional_details": null,
-        "exception": "Failed to call fetch_all() for resource instances: 'NoneType' object has no attribute 'version'",
-        "file": "base.py",
-        "line": 17,
-        "traceback": "Traceback (most recent call last):\n  File \"/opt/homebrew/Cellar/scoutsuite/5.13.0/libexec/lib/python3.12/site-packages/ScoutSuite/providers/base/resources/base.py\", line 17, in call\n    await task\n  File \"/opt/homebrew/Cellar/scoutsuite/5.13.0/libexec/lib/python3.12/site-packages/ScoutSuite/providers/azure/resources/virtualmachines/instances.py\", line 16, in fetch_all\n    id, instance = await self._parse_instance(raw_instance)\n                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/homebrew/Cellar/scoutsuite/5.13.0/libexec/lib/python3.12/site-packages/ScoutSuite/providers/azure/resources/virtualmachines/instances.py\", line 92, in _parse_instance\n    instance_dict['storage_profile']['Release'] = raw_instance.storage_profile.image_reference.version\n                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'NoneType' object has no attribute 'version'\n"
-    }
-]
